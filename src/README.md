@@ -1,4 +1,7 @@
 # FLOAT BBS (Bloomkeeper's Bulletin System)
+<img width="1494" alt="Screenshot 2025-04-23 at 5 40 08 PM" src="https://github.com/user-attachments/assets/254944a2-890c-4ab8-9c91-dac954852356" />
+<img width="1496" alt="Screenshot 2025-04-23 at 5 39 38 PM" src="https://github.com/user-attachments/assets/4bbf1f51-5b21-4700-9b4f-5f2775efec6e" />
+
 A cyberpunk-inspired, terminal-aesthetic digital garden for exploring interconnected notes and documents. Built with React and styled with a retro-futuristic BBS interface, FLOAT BBS reimagines personal knowledge management through the lens of speculative fiction.
 ![FLOAT BBS Main Interface](screenshots/main-interface.png)
 *[Screenshot should show the main interface with multiple panels, pink/magenta cyberpunk aesthetic]*
